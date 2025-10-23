@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://haochai66.github.iio//sitemap.xml
