@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://haochai66.github.iio//sitemap.xml
+Sitemap: https://haochai66.github.io//sitemap.xml
